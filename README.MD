@@ -1,14 +1,13 @@
 
-<p align="center">
-<img width="100%" src="img/marcador.PNG">
-</p>
-
-
 <h3 align="center">
    Marcador de Truco
 </h3>
 
 <blockquote align="center">“Marcador para jogar com amigos e participar de competições”</blockquote>
+
+<p align="center">
+<img width="100%" src="img/marcador.PNG">
+</p>
 
 
 ## :rocket: Tecnologias:
@@ -25,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Somando pontuaçao Truco(3pts), Pontinho(1pts).
 
 
-## O que é a Imersão DEV?
+## 🎫 O que é a Imersão DEV?
 
 Um evento com 10 aulas gratuitas e desafios práticos para dar os primeiros passos na área de programação e criar seus primeiros códigos,
  Você vai aprender com quem domina o assunto e terá todo apoio da nossa equipe e comunidade durante o projeto.
@@ -42,7 +41,7 @@ Um evento com 10 aulas gratuitas e desafios práticos para dar os primeiros pass
 <img src="img/comunidade.PNG">
 
 
-## O que você vai aprender??
+## 🎫 O que você vai aprender??
 
 <img src="img/htmlecss.PNG">
 <img src="img/portifoliop.PNG">
