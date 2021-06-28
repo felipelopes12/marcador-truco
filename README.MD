@@ -1,6 +1,6 @@
 
 <h3 align="center">
-   Marcador de Truco
+  ♣ Marcador de Truco ♣
 </h3>
 
 <blockquote align="center">“Marcador para jogar com amigos e participar de competições”</blockquote>
